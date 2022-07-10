@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  column-gap: 6rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.navchild {
+  display: flex;
+  column-gap: 2rem;
+}
+
+.neflixlogo {
+  width: 50%;
+  height: 60px;
+  object-fit: cover;
+}
+
+.signin {
+  background-color: #e50914;
+  border-radius: 4px;
+  color: white;
+  padding: 8px;
+}
+
+.dropdown-menu {
+  display: flex;
+  align-items: center;
+}
